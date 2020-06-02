@@ -1,0 +1,36 @@
+body { 
+    background-color: rgb(113 150 217);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color:red;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.icone {
+    width: 30px;
+}
+
